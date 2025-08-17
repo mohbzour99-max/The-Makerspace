@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "facilities": "Technical Facilities",
+    "programs": "Educational and Training Programs",
+    "map": "Interactive Map",
+    "about": "About Us",
+    "faqs": "FAQs",
+    "contact": "Contact Us",
+    "join_network": "Join the Network"
+  },
+  "hero": {
+    "title": "Innovate. Create. Transform.",
+    "subtitle": "Jordan's Premier Digital Fabrication Lab",
+    "description": "Part of the global MIT Fab Lab network, empowering makers, entrepreneurs, and innovators with cutting-edge technology and world-class training programs.",
+    "cta_primary": "Book a Tour",
+    "cta_secondary": "Explore Programs",
+    "stats": {
+      "projects": "500+ Projects Completed",
+      "members": "1,200+ Active Members",
+      "workshops": "150+ Workshops Delivered",
+      "startups": "50+ Startups Launched"
+    }
+  },
+  "audiences": {
+    "title": "Who We Serve",
+    "hobbyists": {
+      "title": "Hobbyists & Makers",
+      "description": "Access professional-grade equipment and learn new skills in a collaborative environment."
+    },
+    "students": {
+      "title": "Students & Educators",
+      "description": "Hands-on learning experiences that bridge theory and practice in STEM education."
+    },
+    "entrepreneurs": {
+      "title": "Entrepreneurs & Startups",
+      "description": "Rapid prototyping and product development support for your next big idea."
+    },
+    "designers": {
+      "title": "Designers & Engineers",
+      "description": "Professional fabrication services and advanced manufacturing techniques."
+    },
+    "corporate": {
+      "title": "Corporate Partners",
+      "description": "Innovation workshops and custom training programs for your organization."
+    }
+  },
+  "facilities": {
+    "title": "Technical Facilities",
+    "subtitle": "State-of-the-art equipment for digital fabrication",
+    "cta": "Explore All Machines",
+    "featured": {
+      "3d_printing": "3D Printing & Additive Manufacturing",
+      "laser_cutting": "Laser Cutting & Engraving",
+      "cnc_milling": "CNC Milling & Machining",
+      "electronics": "Electronics Prototyping Lab"
+    }
+  },
+  "programs": {
+    "title": "Educational & Training Programs",
+    "subtitle": "Learn from industry experts and MIT-certified instructors",
+    "cta": "View All Programs",
+    "categories": {
+      "workshops": "Hands-on Workshops",
+      "certifications": "Professional Certifications",
+      "fab_academy": "Fab Academy Program",
+      "community": "Community Learning"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "The Makerspace",
+      "description": "Jordan's premier digital fabrication lab, part of the global MIT Fab Lab network."
+    },
+    "quick_links": {
+      "title": "Quick Links",
+      "book_tour": "Book a Tour",
+      "machine_booking": "Machine Booking",
+      "workshops": "Workshops",
+      "membership": "Membership"
+    },
+    "programs": {
+      "title": "Programs",
+      "fab_academy": "Fab Academy",
+      "workshops": "Workshops",
+      "certifications": "Certifications",
+      "corporate": "Corporate Training"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "address": "Amman, Jordan",
+      "phone": "+962 6 XXX XXXX",
+      "email": "info@makerspace.jo",
+      "hours": "Sun-Thu: 9AM-8PM"
+    },
+    "social": {
+      "title": "Follow Us"
+    },
+    "copyright": "© 2024 The Makerspace - Crown Prince Foundation. All rights reserved.",
+    "mit_affiliation": "Proud member of the MIT Fab Lab network"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "book_now": "Book Now",
+    "contact_us": "Contact Us",
+    "language": "Language"
+  }
+}
