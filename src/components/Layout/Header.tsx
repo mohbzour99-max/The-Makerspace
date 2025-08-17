@@ -23,7 +23,7 @@ export const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center mr-12 rtl:mr-0 rtl:ml-12">
             <img 
-              src="/Logo.png" 
+              src="https://i.postimg.cc/Z5bKCdb7/Logo2.png" 
               alt="The Makerspace Logo" 
               className="h-14 w-auto"
             />
