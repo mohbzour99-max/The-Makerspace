@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Menu, X } from 'lucide-react';
 import { LanguageToggle } from '../LanguageToggle';
-import { useLanguage } from '../../hooks/useLanguage';
 
 export const Header: React.FC = () => {
   const { t } = useTranslation();
